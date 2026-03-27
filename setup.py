@@ -9,4 +9,4 @@ setup(
     author="Sudhanshu",
     packages=find_packages(),
     install_requires = requirements,
-)
+) 
